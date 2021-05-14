@@ -1,0 +1,13 @@
+{
+  "author": "Divakar Kumar",
+  "classifications": [ "console" ],
+  "identity": "Divakar.Console.Project.Template",
+  "name": "ConsoleTemplate",
+  "shortName": "customconsole",
+  "tags": {
+    "language": "c#",
+    "type": "project"
+  },
+  "description": "Custom template for console project.",
+  "sourceName": "ConsoleTemplate"
+}

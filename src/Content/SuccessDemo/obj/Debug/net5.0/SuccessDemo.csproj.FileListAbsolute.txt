@@ -1,0 +1,16 @@
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\bin\Debug\net5.0\SuccessDemo.exe
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\bin\Debug\net5.0\SuccessDemo.deps.json
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\bin\Debug\net5.0\SuccessDemo.runtimeconfig.json
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\bin\Debug\net5.0\SuccessDemo.runtimeconfig.dev.json
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\bin\Debug\net5.0\SuccessDemo.dll
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\bin\Debug\net5.0\ref\SuccessDemo.dll
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\bin\Debug\net5.0\SuccessDemo.pdb
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\obj\Debug\net5.0\SuccessDemo.csprojAssemblyReference.cache
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\obj\Debug\net5.0\SuccessDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\obj\Debug\net5.0\SuccessDemo.AssemblyInfoInputs.cache
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\obj\Debug\net5.0\SuccessDemo.AssemblyInfo.cs
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\obj\Debug\net5.0\SuccessDemo.csproj.CoreCompileInputs.cache
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\obj\Debug\net5.0\SuccessDemo.dll
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\obj\Debug\net5.0\ref\SuccessDemo.dll
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\obj\Debug\net5.0\SuccessDemo.pdb
+D:\Demo\CustomTemplate\src\Content\SuccessDemo\obj\Debug\net5.0\SuccessDemo.genruntimeconfig.cache
